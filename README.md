@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://h-zz-h69.github.io/index/](https://h-zz-h69.github.io/index/)
 
-- 💬 Ask me about **anything related to py**
+- 💬 Ask me about **anything related to python**
 
 - 📫 How to reach me **https://discord.gg/HNYaKzKZQU**
 
