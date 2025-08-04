@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=h-zz-h69" alt="h-zz-h69" /></a> </p>
 
-- 🔭 I’m currently working on [an Discord RAT](https://github.com/H-zz-H69/Discord-RAT)
+- 🔭 I’m currently working on [an Discord RAT](https://github.com/H-zz-H69/Discord-RAT-v2)
 
 - 🌱 I’m currently learning **C++**
 
 - 👨‍💻 All of my projects are available at [https://h-zz-h69.github.io/index/](https://h-zz-h69.github.io/index/)
 
 - 💬 Ask me about **anything related to python**
-
-- 📫 How to reach me **https://discord.gg/HNYaKzKZQU**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
