@@ -1,5 +1,5 @@
 <h1 align="center">Hey, im H-zz-H</h1>
-<h3 align="center">Im mostly posting python on here!</h3>
+<h3 align="center">Im living in Russia and mostly posting python on here!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h-zz-h69&label=Profile%20views&color=0e75b6&style=flat" alt="h-zz-h69" /> </p>
 
